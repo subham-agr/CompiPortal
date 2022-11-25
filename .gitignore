@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/compiportal/node_modules
+/compiportal/.pnp
+/compiportal/.pnp.js
+
+# testing
+/compiportal/coverage
+
+# production
+/compiportal/build
+
+# misc
+/compiportal/.DS_Store
+/compiportal/.env.local
+/compiportal/.env.development.local
+/compiportal/.env.test.local
+/compiportal/.env.production.local
+
+/compiportal/npm-debug.log*
+/compiportal/yarn-debug.log*
+/compiportal/yarn-error.log*
